@@ -1,0 +1,4 @@
+1. Entire word is marked wrong if the last letter is wrong and only marked correct wrong 
+    (only wrong letters: desired) when last letter is right but some letters is/are wrong 
+status: [to be fixed]
+
